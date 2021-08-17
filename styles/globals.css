@@ -1,0 +1,15 @@
+html,body {
+  padding: 0;
+  margin: 0;
+  font-family: 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica',
+    'Arial', sans-serif;
+  border: 1px solid yellow;
+  background: yellow;
+}
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  margin:0;
+}

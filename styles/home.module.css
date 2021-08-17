@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main__images {
+    width: 100%;
+    height: auto;
+}
+.main__image_container {
+    width: 100px;
+    height: auto;
+    margin: auto;
+    position: relative;
+}
+.icon__default {
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+}
+.face__container {
+    position: absolute;
+    top: 0;
+    left:0;
+    right: 0;
+    border: 1px solid blue;
+}
