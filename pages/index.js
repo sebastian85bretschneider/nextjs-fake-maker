@@ -41,7 +41,7 @@ export default function homepage({allPostsData}) {
         // const allImages = getAllImages();
         // console.log("allImages");
         // console.log(allImages);
-        // test
+        // test 2
     }
 
     // https://dev.to/dolearning/importing-svgs-to-next-js-nna
